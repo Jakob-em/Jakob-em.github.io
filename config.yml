@@ -1,0 +1,16 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Jakob Emmerling
+theme: PaperMod
+defaultTheme: auto
+
+
+params:
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog. Here I write about things that interest me and projects I am working on.
+  socialIcons: # optional
+      - name: "github"
+        url: "https://github.com/Jakob-em"
+      - name: "stackoverflow"
+        url: "https://stackoverflow.com/users/8995812/jakob-em"
