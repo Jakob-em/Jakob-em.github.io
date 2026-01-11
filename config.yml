@@ -1,15 +1,22 @@
 baseURL: https://jakobemmerling.de/ 
 languageCode: en-us
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 title: Jakob Emmerling
 theme: PaperMod
-defaultTheme: auto
-
 
 params:
+  defaultTheme: auto
+  disableThemeToggle: false
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: Welcome to my blog. Here I write about things that interest me and projects I am working on.
   socialIcons: # optional
+      - name: "x"
+        url: "https://x.com/jakob_emm"
       - name: "github"
         url: "https://github.com/Jakob-em"
       - name: "stackoverflow"
