@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Agents on Jakob Emmerling</title><link>https://jakobemmerling.de/tags/agents/</link><description>Recent content in Agents on Jakob Emmerling</description><generator>Hugo -- 0.154.4</generator><language>en-us</language><lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jakobemmerling.de/tags/agents/index.xml" rel="self" type="application/rss+xml"/><item><title>FUSE is all you need - Giving agents access to anything via filesystems</title><link>https://jakobemmerling.de/posts/fuse-is-all-you-need/</link><pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate><guid>https://jakobemmerling.de/posts/fuse-is-all-you-need/</guid><description>&lt;p&gt;Giving agents access to a sandboxed environment with a shell and a filesystem has been the latest hype when it comes to agentic harnesses. Recent examples of this include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tursodatabase/agentfs"&gt;Turso&amp;rsquo;s AgentFS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Anthropic&amp;rsquo;s &lt;a href="https://platform.claude.com/docs/en/agent-sdk/overview"&gt;Agent SDK&lt;/a&gt;, which brings Claude Code&amp;rsquo;s harness to non-coding domains&lt;/li&gt;
+&lt;li&gt;Vercel &lt;a href="https://vercel.com/blog/we-removed-80-percent-of-our-agents-tools"&gt;rebuilding their text-to-SQL agent&lt;/a&gt; on top of a sandbox&lt;/li&gt;
+&lt;li&gt;Anthropic&amp;rsquo;s &lt;a href="https://github.com/anthropics/skills"&gt;Agent Skills&lt;/a&gt; for filesystem-based progressive disclosure&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The argument for why this is good goes something like this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The big labs are doing heavy RL for coding tasks in these kinds of environments. Aligning more closely with such a harness brings free gains from the coding domain to other problem spaces.&lt;/p&gt;</description></item></channel></rss>
